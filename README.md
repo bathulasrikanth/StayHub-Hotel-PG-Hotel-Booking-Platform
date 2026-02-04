@@ -1,4 +1,4 @@
-# StayHub-Hostel-PG-Hotel-Booking-Platform
+<img width="1920" height="1080" alt="Screenshot (358)" src="https://github.com/user-attachments/assets/d446511e-da03-405a-882f-27d55646e7eb" /># StayHub-Hostel-PG-Hotel-Booking-Platform
 Built a full-stack booking and payment backend with Django REST Framework, JWT authentication, Razorpay integration(soon), and role-based access control.
 
 
@@ -26,3 +26,6 @@ Database (PostgreSQL / MySQL)
      |
      v
 External Service (Razorpay Webhooks)
+
+
+
