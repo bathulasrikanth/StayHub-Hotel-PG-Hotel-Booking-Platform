@@ -12,3 +12,17 @@ Designed room-level inventory management with real-time availability tracking.
 Integrated Razorpay payments using server-side order creation and secure webhook verification.
 Implemented payment retry logic and booking lifecycle management.
 Developed vendor dashboard APIs using aggregate queries to track bookings and revenue.
+Client (Frontend)
+     |
+     v
+API Gateway (DRF + JWT)
+     |
+     v
+Business Logic Layer
+(Property / Room / Booking / Payment)
+     |
+     v
+Database (PostgreSQL / MySQL)
+     |
+     v
+External Service (Razorpay Webhooks)
